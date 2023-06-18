@@ -1,0 +1,2 @@
+desafio 5-modulo7 api_rest_joyas
+Objetivo: Levantar un servidor con Express Js que permita conectarse con una base de datos PostgreSQL y crear una API REST con paginación, ordenamiento y filtros de registro alojados en PostgreSQL
